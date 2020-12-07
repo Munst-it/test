@@ -1,1 +1,2 @@
-print("hello, fiend")
+print("hello, friend")
+print("hello, fool")
